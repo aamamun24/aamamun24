@@ -7,7 +7,7 @@ Hi there! I'm Abdullah Al Mamun, a passionate front-end developer with a focus o
 ## Skills and Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/aamamun24/">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,express,nodejs,figma,git,firebase,vercel" />
   </a>
 </p>
@@ -15,10 +15,11 @@ Hi there! I'm Abdullah Al Mamun, a passionate front-end developer with a focus o
 ## GitHub Status
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aamamun24&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://www.linkedin.com/in/aamamun24/"><img src="https://github-readme-streak-stats.herokuapp.com?user=aamamun24&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-
-![Abdullah Al Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamamun24&theme=dark&show_icons=true)
+<div align="center">
+    <a href="https://www.linkedin.com/in/aamamun24/"><img src="https://github-readme-stats.vercel.app/api?username=aamamun24&theme=dark&show_icons=true&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
 ## Projects
 
