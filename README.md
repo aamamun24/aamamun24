@@ -1,3 +1,6 @@
+![Abdullah Al Mamun](https://raw.githubusercontent.com/aamamun24/aamamun24/main/images/banner.png "banner")
+
+
 ### Hi there 👋
 
 
@@ -10,3 +13,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,express,nodejs,figma,git,firebase" />
+  </a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aamamun24&theme=dark&hide_border=true)](https://git.io/streak-stats)
